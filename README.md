@@ -1,81 +1,78 @@
-<div align="center">
+<!-- Profile README for github.com/Rajuydv174 -->
 
-# Hi, I'm Raju Kumar!
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=header&height=200&color=0:0d1117,55:10263f,100:1f4e79&text=Raju%20Kumar&fontColor=e6edf3&fontSize=50&fontAlignY=36&desc=Aspiring%20Software%20Engineer%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&animation=fadeIn" alt="Raju Kumar - Aspiring Software Engineer and Full-Stack Developer" />
+</p>
 
-### Aspiring Software Engineer · Full-Stack Developer · Backend Developer · Problem Solver
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=19&duration=2600&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&height=36&lines=Full-stack+developer;Backend+developer;Problem+solver;Learning+every+day" alt="Developer roles typing animation" />
+</p>
 
-Building useful software, learning continuously, and working on practical solutions to real-world problems.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2200&pause=600&color=8B949E&vCenter=true&multiline=true&repeat=false&width=520&height=110&lines=%24+building+useful+applications;%24+writing+clean%2C+maintainable+code;%24+strengthening+DSA+and+system+design;%24+learning+backend+and+cloud+engineering" alt="Raju Kumar's development interests" />
+</p>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=2563EB&center=true&vCenter=true&width=720&lines=Aspiring+Software+Engineer;Full-Stack+Developer;Backend+Developer;Problem+Solver)](https://git.io/typing-svg)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:1f4e79,100:58A6FF" alt="Section divider" width="100%" /></p>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Rajuydv174-181717?style=flat&logo=github)](https://github.com/Rajuydv174)
-[![Email](https://img.shields.io/badge/Email-Contact-0A66C2?style=flat&logo=gmail&logoColor=white)](mailto:rajukr1729@gmail.com)
+<h3 align="center">Tech stack</h3>
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp,html,css,react,nextjs,tailwind,nodejs,express,mongodb,postgres,mysql,git,github,postman,docker,githubactions,vscode&theme=dark&perline=10" alt="JavaScript, TypeScript, Python, Java, C++, HTML, CSS, React, Next.js, Tailwind CSS, Node.js, Express.js, MongoDB, PostgreSQL, MySQL, Git, GitHub, Postman, Docker, GitHub Actions, and VS Code" />
+</p>
 
----
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:1f4e79,100:58A6FF" alt="Section divider" width="100%" /></p>
 
-## About Me
+<h3 align="center">About</h3>
 
-I'm interested in software engineering and full-stack development, especially building real-world applications that are useful and straightforward to maintain. I care about writing clean, maintainable code and am steadily strengthening my skills in data structures and algorithms.
+<p align="center">
+  Interested in software engineering, full-stack development, and building practical applications.<br />
+  Learning data structures and algorithms, backend engineering, APIs, databases, and system design fundamentals.<br />
+  Open to meaningful collaboration and open-source contributions.
+</p>
 
-I'm also exploring backend engineering, APIs, databases, and system design. I welcome opportunities to learn through collaboration and open-source contributions.
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:1f4e79,100:58A6FF" alt="Section divider" width="100%" /></p>
 
-## Tech Stack
+<h3 align="center">Currently learning</h3>
 
-**Languages**
+<p align="center">
+  <img src="https://img.shields.io/badge/Advanced%20DSA-0d1117?style=flat-square&logo=thealgorithms&logoColor=58A6FF" alt="Advanced data structures and algorithms" />
+  <img src="https://img.shields.io/badge/System%20Design-0d1117?style=flat-square&logo=diagramsdotnet&logoColor=58A6FF" alt="System design fundamentals" />
+  <img src="https://img.shields.io/badge/Cloud%20Computing-0d1117?style=flat-square&logo=icloud&logoColor=58A6FF" alt="Cloud computing" />
+  <img src="https://img.shields.io/badge/Backend%20Engineering-0d1117?style=flat-square&logo=nodedotjs&logoColor=58A6FF" alt="Backend engineering" />
+</p>
 
-![JavaScript](https://skillicons.dev/icons?i=javascript) ![TypeScript](https://skillicons.dev/icons?i=typescript) ![Python](https://skillicons.dev/icons?i=python) ![Java](https://skillicons.dev/icons?i=java) ![C++](https://skillicons.dev/icons?i=cpp)
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=rect&height=2&section=header&color=0:1f4e79,100:58A6FF" alt="Section divider" width="100%" /></p>
 
-**Frontend**
+<h3 align="center">Activity</h3>
 
-![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Tailwind CSS](https://skillicons.dev/icons?i=tailwind)
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajuydv174&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rajuydv174&theme=github" alt="GitHub statistics" />
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajuydv174&theme=github_dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rajuydv174&theme=github" alt="Most used languages by commits" width="49%" />
+  </picture>
+</p>
 
-**Backend & Databases**
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=Rajuydv174&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=E6EDF3&dates=8B949E" />
+    <img src="https://streak-stats.demolab.com/?user=Rajuydv174&hide_border=true&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB" alt="GitHub contribution streak" />
+  </picture>
+</p>
 
-![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express.js](https://skillicons.dev/icons?i=express) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![PostgreSQL](https://skillicons.dev/icons?i=postgres) ![MySQL](https://skillicons.dev/icons?i=mysql)
+<p align="center">
+  <a href="https://github.com/Rajuydv174"><img src="https://github-readme-activity-graph.vercel.app/graph?username=Rajuydv174&hide_border=true&area=true&theme=github-compact&bg_color=0d1117&color=58A6FF&line=58A6FF&point=e6edf3" alt="GitHub contribution graph for Rajuydv174" width="100%" /></a>
+</p>
 
-**Tools & Platforms**
+<p align="center">
+  <a href="https://github.com/Rajuydv174"><img src="https://img.shields.io/badge/GitHub-Rajuydv174-0d1117?style=flat-square&logo=github&logoColor=e6edf3" alt="GitHub: Rajuydv174" /></a>
+  <a href="mailto:rajukr1729@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-1f4e79?style=flat-square&logo=gmail&logoColor=white" alt="Email Raju Kumar" /></a>
+  <img src="https://komarev.com/ghpvc/?username=Rajuydv174&label=views&color=1f4e79&style=flat-square" alt="Profile view counter" />
+</p>
 
-![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) ![Docker](https://skillicons.dev/icons?i=docker) ![GitHub Actions](https://skillicons.dev/icons?i=githubactions) ![VS Code](https://skillicons.dev/icons?i=vscode)
-
-## GitHub Activity
-
-<div align="center">
-
-<a href="https://github.com/Rajuydv174">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rajuydv174&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub statistics for Rajuydv174" />
-</a>
-<a href="https://github.com/Rajuydv174">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rajuydv174&layout=compact&hide_border=true&theme=transparent" alt="Most used programming languages for Rajuydv174" />
-</a>
-
-[![Contribution streak](https://streak-stats.demolab.com?user=Rajuydv174&hide_border=true&theme=transparent)](https://github.com/Rajuydv174)
-
-[![Contribution activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Rajuydv174&hide_border=true&area=true&theme=minimal)](https://github.com/Rajuydv174)
-
-[![Profile summary cards](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rajuydv174&theme=github)](https://github.com/Rajuydv174)
-
-</div>
-
-## Currently Learning
-
-- Advanced data structures and algorithms
-- System design fundamentals
-- Cloud computing
-- Backend engineering
-
-## Connect
-
-- **GitHub:** [@Rajuydv174](https://github.com/Rajuydv174)
-- **Email:** [rajukr1729@gmail.com](mailto:rajukr1729@gmail.com)
-- **LinkedIn:** Not provided yet
-- **Portfolio:** Not provided yet
-
----
-
-<div align="center">
-
-*Thanks for stopping by — feel free to explore my repositories and connect.*
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=0:1f4e79,45:10263f,100:0d1117" alt="" width="100%" />
+</p>
